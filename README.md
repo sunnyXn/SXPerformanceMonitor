@@ -1,3 +1,3 @@
 # SXPerformanceMonitor
 
-ios线程卡顿监控。
+ios线程卡顿监控工具。
